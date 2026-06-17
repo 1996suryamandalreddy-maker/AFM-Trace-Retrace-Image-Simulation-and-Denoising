@@ -1,0 +1,13 @@
+{
+  "run_stamp": "20260617_014327",
+  "drive_nm_value": 50.0,
+  "setpoint_value": 0.5,
+  "simple_image_kinds": [
+    "step",
+    "gaussian_bump",
+    "sine_grating",
+    "trench",
+    "two_bumps"
+  ],
+  "results_dir": "/content/afm_trace_retrace_results_20260617_014327"
+}
